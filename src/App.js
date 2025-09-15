@@ -6,18 +6,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={gatorLogo} className="App-logo" alt="logo" />
-<<<<<<< HEAD
         <p>Hello World!</p>
         <p>My name is Hithisha Dubbaka and this is my project</p>
-=======
-        <p> Hello World! </p>
-          <p> My name is Hithisha Dubbaka and this is my project </p>
->>>>>>> 605410e (Update App.js with my name)
       </header>
     </div>
   );
 }
 
 export default App;
+
 
 
